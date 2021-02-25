@@ -7,7 +7,7 @@
 
 Atualmente estudando análise de dados e buscando desenvolver ferramentas que torne acessível a utilização de data driven insights por pequenas empresas 📉 
 
-:computer:  &nbsp; Atualmente trabalho por conta em projetos pessoais.
+:computer:  &nbsp; Atualmente atuo como Desenvolvedor Front-end na New School.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end, Back-end e Análise de dados. 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, RPG de mesa, ES Skyrim, CS:GO, seriados na Amazon e sou obcecado com game design. 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenrryEsposito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrry-esposito-7a2441121)](https://www.linkedin.com/in/henrry-esposito-7a2441121) 
