@@ -5,17 +5,17 @@
 
 ## Olá pessoal 👋
 
-● Focado atualmente nas seguintes tecnologias: 💻
+💻 Focado atualmente nas seguintes tecnologias:
 <br/>.Net
 <br/>Angular
 <br/>React Native
 <br/>
-<br/>● Pequenos Pensamentos:
+<br/>💭 Pequenos Pensamentos:
 <br/>Machine Learning vai dominar o mundo.
 <br/>Criatividade e autenticidade é minha maneira de resolver problemas.
 <br/>Luto contra o perfeccionismo.
 <br/>
-<br/>● Outras habilidades que me definem:
+<br/>💼 Outras habilidades que me definem:
 <br/>Mago do Photoshop.
 <br/>Penso em tudo de forma estatística.
 <br/>Game Designer.
