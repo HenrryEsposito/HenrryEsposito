@@ -5,11 +5,22 @@
 
 ## Olá pessoal 👋
 
-Atualmente estudando análise de dados e buscando desenvolver ferramentas que torne acessível a utilização de data driven insights por pequenas empresas 📉 
-
-:computer:  &nbsp; Atualmente atuo como Desenvolvedor Front-end na New School.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end, Back-end e Análise de dados. 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, RPG de mesa, ES Skyrim, CS:GO, seriados na Amazon e sou obcecado com game design. 
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenrryEsposito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrry-esposito-7a2441121)](https://www.linkedin.com/in/henrry-esposito-7a2441121) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-henrrygesposito@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrrygesposito@gmail.com)](mailto:henrrygesposito@gmail.com)
+● Focado atualmente nas seguintes tecnologias: 💻
+<br/>.Net
+<br/>Angular
+<br/>React Native
+<br/>
+<br/>● Pequenos Pensamentos:
+<br/>Machine Learning vai dominar o mundo.
+<br/>Criatividade e autenticidade é minha maneira de resolver problemas.
+<br/>Luto contra o perfeccionismo.
+<br/>
+<br/>● Outras habilidades que me definem:
+<br/>Mago do Photoshop.
+<br/>Penso em tudo de forma estatística.
+<br/>Game Designer.
+<br/>Músico aposentado.
+<br/>
+<br/>:email:&nbsp; Entre em contato comigo:
+<br/>www.linkedin.com/in/henrry-esposito
+<br/>henrrygesposito@gmail.com
