@@ -6,20 +6,20 @@
 ## Olá pessoal 👋
 
 💻 Focado atualmente nas seguintes tecnologias:
-<br/>&emsp;&ensp;&nbsp;.Net
-<br/>&emsp;&ensp;&nbsp;Angular
-<br/>&emsp;&ensp;&nbsp;React Native
+<br/>&emsp;&ensp;&nbsp;React
+<br/>&emsp;&ensp;&nbsp;Node
+<br/>&emsp;&ensp;&nbsp;Mongo
 <br/>
 <br/>💭 Pequenos Pensamentos:
 <br/>&emsp;&ensp;&nbsp;Machine Learning vai dominar o mundo.
 <br/>&emsp;&ensp;&nbsp;Criatividade e autenticidade é minha maneira de resolver problemas.
-<br/>&emsp;&ensp;&nbsp;Luto contra o perfeccionismo.
 <br/>
 <br/>💼 Outras habilidades que me definem:
 <br/>&emsp;&ensp;&nbsp;Mago do Photoshop.
 <br/>&emsp;&ensp;&nbsp;Penso em tudo de forma estatística.
 <br/>&emsp;&ensp;&nbsp;Game Designer.
 <br/>&emsp;&ensp;&nbsp;Músico aposentado.
+<br/>&emsp;&ensp;&nbsp;Monto o cubo mágico em 50 segundos.
 <br/>
 <br/>:email: Entre em contato comigo:
 <br/>&emsp;&ensp;&nbsp;www.linkedin.com/in/henrry-esposito
